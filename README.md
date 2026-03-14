@@ -6,3 +6,5 @@ HighRateMOS is the first non-intrusive MOS prediction model that explicitly mode
 
 Most speech quality assessment models are trained and evaluated at a fixed sampling rate (e.g., 16 kHz). In practice, however, speech signals use a range of sampling rates—16 kHz, 24 kHz, 48 kHz, which can affect perceived quality. This project addresses this mismatch by adding sampling-rate-aware components to an SSL-based MOS prediction framework, supporting robust quality estimation across diverse real-world conditions regardless of sampling rate.
 
+## Instsallation
+This project extends the [SHEET](https://github.com/unilight/sheet) toolkit. Before getting started, please follow the installation instructions in the original repository.
