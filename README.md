@@ -10,4 +10,4 @@ Most speech quality assessment models are trained and evaluated at a fixed sampl
 This project extends the [SHEET](https://github.com/unilight/sheet) toolkit. Before getting started, please follow the installation instructions in the original repository.
 
 ## Data Preparation
-This recipe uses data from the [AudioMOS Challenge 2025 Track 3](https://sites.google.com/view/voicemos-challenge/audiomos-challenge-2025). Please follow the challenge's official data usage policy. For convenience, we provide the original download [links](https://drive.google.com/file/d/1IoxKU_dS8uDdMEFZc8IBLp0he8Vz5xOH/view) for the data.
+This recipe uses data from the [AudioMOS Challenge 2025 Track 3](https://sites.google.com/view/voicemos-challenge/audiomos-challenge-2025). Please follow the challenge's official data usage policy. For convenience, we provide the original [download links](https://drive.google.com/file/d/1IoxKU_dS8uDdMEFZc8IBLp0he8Vz5xOH/view) for the data.
